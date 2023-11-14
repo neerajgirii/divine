@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "root";
-$databaseName = "divineMainDatabase";
+$databaseName = "divinemi_divineMainDatabase";
 
 $conn = mysqli_connect($servername, $username, $password, $databaseName);
 

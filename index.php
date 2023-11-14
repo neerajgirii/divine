@@ -50,7 +50,7 @@
       <header class="header_section">
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
               <!-- <img src="images/logo.png" alt=""> -->
               <span> Divine </span>
             </a>
@@ -72,7 +72,7 @@
               >
                 <ul class="navbar-nav">
                   <li class="nav-item active">
-                    <a class="nav-link" href="index.html"
+                    <a class="nav-link" href="index.php"
                       >Home <span class="sr-only">(current)</span></a
                     >
                   </li>
@@ -85,8 +85,11 @@
                   <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact us</a>
                   </li>
+                  <!-- <li class="nav-item">
+                    <a class="nav-link" href="php/blogPage.php">Blog</a>
+                  </li> -->
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Login</a>
+                    <a class="nav-link" href="loginAndSignUp.html">Login</a>
                   </li>
                 </ul>
               </div>
@@ -400,11 +403,11 @@
               <div class="client_container">
                 <div class="client-id">
                   <div class="img-box">
-                    <img src="images/prakash.jpg" style = "height: 145px" alt="Prakash" />
+                    <img src="images/pooja.png" style = "height: 145px" alt="Pooja" />
                   </div>
                   <div class="name">
-                    <h5>Prakash Ghimire</h5>
-                    <h6>CEO's Son</h6>
+                    <h5>Pooja Ghimire</h5>
+                    <h6>Chairperson</h6>
                   </div>
                 </div>
                 <div class="detail-box">
@@ -420,11 +423,11 @@
               <div class="client_container">
                 <div class="client-id">
                   <div class="img-box">
-                    <img src="images/niraj.png" style = "height: 145px" alt="Niraj" />
+                    <img src="images/dhurbag.png" style = "height: 145px" alt="Dhurba" />
                   </div>
                   <div class="name">
-                    <h5>Niraj Giri</h5>
-                    <h6>Developer's Son</h6>
+                    <h5>Dhurba Ghimire</h5>
+                    <h6>CEO</h6>
                   </div>
                 </div>
                 <div class="detail-box">
@@ -440,11 +443,11 @@
               <div class="client_container">
                 <div class="client-id">
                   <div class="img-box">
-                    <img src="images/anjan.jpg"style = "height: 145px"  alt="Anjan" />
+                    <img src="images/jeevan.png"style = "height: 145px"  alt="Jeevan" />
                   </div>
                   <div class="name">
-                    <h5>Anjan Phuyal</h5>
-                    <h6>Developer's Son</h6>
+                    <h5>Jeevan Ghimire</h5>
+                    <h6>Board Member</h6>
                   </div>
                 </div>
                 <div class="detail-box">

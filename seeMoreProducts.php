@@ -55,8 +55,5 @@
         $conn->close();
         ?>
         </div>
-        <div class="d-flex justify-content-center">
-          <a href="" class="price_btn">See More</a>
-        </div>
       </div>
     </section>
